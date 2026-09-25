@@ -48,16 +48,6 @@ Expected needs: 3D world rendering, interactive hotspots, embedded playable demo
 *Data structures in progress — owner: Juno (Systems & Logic Lead).*
 Expected models: team members, office rooms, projects (games/apps), activity timeline.
 
-## 🗂️ Project Structure
-
-eldrichpeach-website/
-├── README.md
-├── website         # project main folder
-├────── v1          # version 1
-├────── v2          # version 2
-├── assets          # all assets for website
-└── docs/           # decisions, meeting notes, votes
-
 
 ## 👥 The Team
 
